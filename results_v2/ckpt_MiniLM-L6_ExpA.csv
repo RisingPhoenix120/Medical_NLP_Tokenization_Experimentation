@@ -1,0 +1,2 @@
+Model,Type,Experiment,Dim,Embed Time (s),Total Time (s),Model RAM (MB),VRAM (MB),Avg Prec@5,Avg Recall@5,Avg Sim@5,Avg MRR@5,Avg nDCG@5,Overall Quality
+MiniLM-L6,general,A,384,5.9,6.0,654.0,56.0,0.856,0.379,0.6072,0.493,0.979,0.776

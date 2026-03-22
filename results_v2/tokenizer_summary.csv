@@ -1,0 +1,10 @@
+Model,Type,Vocab Size,Fertility,UNK Rate,Avg Tokens/Med,Avg Tokens/Plain,Ratio Med/Plain,SNOMED Coverage
+MiniLM-L6,general,30522,2.209,0.0,3.217,1.0,3.217,0.142
+bge-small,general,30522,2.209,0.0,3.217,1.0,3.217,0.142
+bge-base,general,30522,2.209,0.0,3.217,1.0,3.217,0.142
+Snowflake-M,general,30522,2.209,0.0,3.217,1.0,3.217,0.142
+e5-large,general,30522,2.209,0.0,3.217,1.0,3.217,0.142
+GTE-Large,general,30522,2.209,0.0,3.217,1.0,3.217,0.142
+PubMedBERT,medical,30522,1.918,0.0,2.683,1.0,2.683,0.1482
+S-PubMedBERT,medical,30522,1.918,0.0,2.683,1.0,2.683,0.1482
+MedEmbed-L,medical,30522,2.209,0.0,3.217,1.0,3.217,0.142

@@ -1,0 +1,2 @@
+Model,Type,Experiment,Dim,Embed Time (s),Total Time (s),Model RAM (MB),VRAM (MB),Avg Prec@5,Avg Recall@5,Avg Sim@5,Avg MRR@5,Avg nDCG@5,Overall Quality
+PubMedBERT,medical,B,768,12.0,12.2,6.0,240.0,0.824,0.358,0.6535,0.504,0.97,0.7661

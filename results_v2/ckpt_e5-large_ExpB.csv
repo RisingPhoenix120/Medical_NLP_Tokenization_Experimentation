@@ -1,0 +1,2 @@
+Model,Type,Experiment,Dim,Embed Time (s),Total Time (s),Model RAM (MB),VRAM (MB),Avg Prec@5,Avg Recall@5,Avg Sim@5,Avg MRR@5,Avg nDCG@5,Overall Quality
+e5-large,general,B,1024,26.2,26.5,21.0,680.0,0.856,0.376,0.8623,0.491,0.978,0.775

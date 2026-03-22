@@ -1,0 +1,226 @@
+QueryID,Category,Query,Model,Type,Experiment,Prec@5,Recall@5,Avg_Sim,MRR@5,nDCG@5,Quality
+Q01,Allergy/ENT,What treatments were recommended for a patient with allergic rhin…,MiniLM-L6,general,B,0.6,0.333,0.6541,0.528,0.906,0.6779
+Q02,Allergy/ENT,Describe the physical exam findings in the nose and throat for a …,MiniLM-L6,general,B,1.0,0.455,0.5658,0.457,1.0,0.8189
+Q03,Allergy/ENT,What nasal spray samples and alternative oral medication were sug…,MiniLM-L6,general,B,1.0,0.455,0.6315,0.457,1.0,0.8189
+Q04,Allergy/ENT,"For a patient with chronic sinusitis, facial pain, postnasal drip…",MiniLM-L6,general,B,0.4,0.182,0.6085,0.625,0.877,0.6341
+Q05,Allergy/ENT,What history and recommendations were given for a 55-year-old fem…,MiniLM-L6,general,B,0.8,0.333,0.6167,0.521,1.0,0.7736
+Q06,Internal Med,"In a case of Kawasaki disease in a 14-month-old, what discharge m…",MiniLM-L6,general,B,0.8,0.5,0.5599,0.487,0.956,0.7478
+Q07,Allergy/ENT,What symptoms and plan were documented for a 42-year-old woman wi…,MiniLM-L6,general,B,0.8,0.333,0.6012,0.521,1.0,0.7736
+Q08,Surgery,What surgical steps were described in a laparoscopic antecolic an…,MiniLM-L6,general,B,1.0,0.417,0.6614,0.457,1.0,0.8189
+Q09,Surgery,"For a 42-year-old male weighing 344 pounds with BMI 51, sleep apn…",MiniLM-L6,general,B,0.6,0.2,0.5515,0.611,1.0,0.737
+Q10,Surgery,Describe the eating history and weight loss attempts of a single …,MiniLM-L6,general,B,1.0,0.385,0.6467,0.457,1.0,0.8189
+Q11,Surgery,What port placement and bowel division technique was used in a 30…,MiniLM-L6,general,B,0.8,0.364,0.5922,0.446,0.905,0.7169
+Q12,Surgery,"In a bariatric consult, what family history, social habits, and r…",MiniLM-L6,general,B,1.0,0.385,0.6082,0.457,1.0,0.8189
+Q13,Surgery,"What complications like anastomotic leak, bleeding, DVT, and bowe…",MiniLM-L6,general,B,1.0,0.455,0.6647,0.457,1.0,0.8189
+Q14,Internal Med,What were the key 2-D M-mode and Doppler findings in an echocardi…,MiniLM-L6,general,B,1.0,0.417,0.6153,0.457,1.0,0.8189
+Q15,Internal Med,Describe the left ventricular findings in a hyperdynamic echocard…,MiniLM-L6,general,B,1.0,0.455,0.6189,0.457,1.0,0.8189
+Q16,Internal Med,"In an echo report, what valve abnormalities and pressures were no…",MiniLM-L6,general,B,1.0,0.385,0.6284,0.457,1.0,0.8189
+Q17,Internal Med,What normal findings were reported in an echocardiogram with no p…,MiniLM-L6,general,B,1.0,0.417,0.7409,0.457,1.0,0.8189
+Q18,Internal Med,For a patient with mild tricuspid regurgitation and right heart p…,MiniLM-L6,general,B,0.8,0.4,0.5805,0.508,0.983,0.7637
+Q19,Surgery,What procedure details and anesthesia were used in a liposuction …,MiniLM-L6,general,B,0.6,0.25,0.6847,0.567,0.947,0.7045
+Q20,Surgery,In a suction-assisted lipectomy for abdominal and thigh lipodystr…,MiniLM-L6,general,B,1.0,0.5,0.6319,0.457,1.0,0.8189
+Q21,Cross-spec,Compare the ejection fraction and chamber sizes reported across d…,MiniLM-L6,general,B,0.8,0.4,0.5439,0.446,0.905,0.7169
+Q22,Cross-spec,"What common comorbidities (asthma, diabetes, sleep apnea) appear …",MiniLM-L6,general,B,0.8,0.308,0.4804,0.508,0.983,0.7637
+Q23,Cross-spec,Describe any mention of allergy testing (RAST) or EpiPen prescrip…,MiniLM-L6,general,B,0.8,0.364,0.5125,0.508,0.983,0.7637
+Q24,Cross-spec,"What physical exam findings (wheezing, edema, vital signs) were d…",MiniLM-L6,general,B,0.6,0.25,0.5635,0.567,0.947,0.7045
+Q25,Cross-spec,"In cases involving anastomosis (gastric bypass or other), what te…",MiniLM-L6,general,B,1.0,0.417,0.6169,0.457,1.0,0.8189
+Q01,Allergy/ENT,What treatments were recommended for a patient with allergic rhin…,bge-small,general,B,0.6,0.333,0.7459,0.511,0.885,0.6655
+Q02,Allergy/ENT,Describe the physical exam findings in the nose and throat for a …,bge-small,general,B,1.0,0.455,0.7891,0.457,1.0,0.8189
+Q03,Allergy/ENT,What nasal spray samples and alternative oral medication were sug…,bge-small,general,B,0.6,0.273,0.7522,0.611,1.0,0.737
+Q04,Allergy/ENT,"For a patient with chronic sinusitis, facial pain, postnasal drip…",bge-small,general,B,1.0,0.455,0.7487,0.457,1.0,0.8189
+Q05,Allergy/ENT,What history and recommendations were given for a 55-year-old fem…,bge-small,general,B,0.8,0.333,0.7614,0.508,0.983,0.7637
+Q06,Internal Med,"In a case of Kawasaki disease in a 14-month-old, what discharge m…",bge-small,general,B,0.8,0.5,0.7489,0.508,0.983,0.7637
+Q07,Allergy/ENT,What symptoms and plan were documented for a 42-year-old woman wi…,bge-small,general,B,0.6,0.25,0.7524,0.611,1.0,0.737
+Q08,Surgery,What surgical steps were described in a laparoscopic antecolic an…,bge-small,general,B,1.0,0.417,0.7747,0.457,1.0,0.8189
+Q09,Surgery,"For a 42-year-old male weighing 344 pounds with BMI 51, sleep apn…",bge-small,general,B,1.0,0.333,0.7819,0.457,1.0,0.8189
+Q10,Surgery,Describe the eating history and weight loss attempts of a single …,bge-small,general,B,1.0,0.385,0.7578,0.457,1.0,0.8189
+Q11,Surgery,What port placement and bowel division technique was used in a 30…,bge-small,general,B,0.6,0.273,0.7659,0.611,1.0,0.737
+Q12,Surgery,"In a bariatric consult, what family history, social habits, and r…",bge-small,general,B,1.0,0.385,0.6986,0.457,1.0,0.8189
+Q13,Surgery,"What complications like anastomotic leak, bleeding, DVT, and bowe…",bge-small,general,B,1.0,0.455,0.7914,0.457,1.0,0.8189
+Q14,Internal Med,What were the key 2-D M-mode and Doppler findings in an echocardi…,bge-small,general,B,1.0,0.417,0.7999,0.457,1.0,0.8189
+Q15,Internal Med,Describe the left ventricular findings in a hyperdynamic echocard…,bge-small,general,B,0.8,0.364,0.8084,0.521,1.0,0.7736
+Q16,Internal Med,"In an echo report, what valve abnormalities and pressures were no…",bge-small,general,B,1.0,0.385,0.8031,0.457,1.0,0.8189
+Q17,Internal Med,What normal findings were reported in an echocardiogram with no p…,bge-small,general,B,1.0,0.417,0.8395,0.457,1.0,0.8189
+Q18,Internal Med,For a patient with mild tricuspid regurgitation and right heart p…,bge-small,general,B,1.0,0.5,0.7714,0.457,1.0,0.8189
+Q19,Surgery,What procedure details and anesthesia were used in a liposuction …,bge-small,general,B,0.8,0.333,0.7657,0.508,0.983,0.7637
+Q20,Surgery,In a suction-assisted lipectomy for abdominal and thigh lipodystr…,bge-small,general,B,0.8,0.4,0.7876,0.521,1.0,0.7736
+Q21,Cross-spec,Compare the ejection fraction and chamber sizes reported across d…,bge-small,general,B,1.0,0.5,0.7534,0.457,1.0,0.8189
+Q22,Cross-spec,"What common comorbidities (asthma, diabetes, sleep apnea) appear …",bge-small,general,B,0.8,0.308,0.7285,0.446,0.905,0.7169
+Q23,Cross-spec,Describe any mention of allergy testing (RAST) or EpiPen prescrip…,bge-small,general,B,0.8,0.364,0.7436,0.508,0.983,0.7637
+Q24,Cross-spec,"What physical exam findings (wheezing, edema, vital signs) were d…",bge-small,general,B,0.4,0.167,0.7331,0.667,0.92,0.6621
+Q25,Cross-spec,"In cases involving anastomosis (gastric bypass or other), what te…",bge-small,general,B,0.8,0.333,0.7434,0.521,1.0,0.7736
+Q01,Allergy/ENT,What treatments were recommended for a patient with allergic rhin…,bge-base,general,B,0.4,0.222,0.7318,0.667,0.92,0.6621
+Q02,Allergy/ENT,Describe the physical exam findings in the nose and throat for a …,bge-base,general,B,0.8,0.364,0.7461,0.487,0.956,0.7478
+Q03,Allergy/ENT,What nasal spray samples and alternative oral medication were sug…,bge-base,general,B,0.8,0.364,0.7221,0.521,1.0,0.7736
+Q04,Allergy/ENT,"For a patient with chronic sinusitis, facial pain, postnasal drip…",bge-base,general,B,1.0,0.455,0.7425,0.457,1.0,0.8189
+Q05,Allergy/ENT,What history and recommendations were given for a 55-year-old fem…,bge-base,general,B,1.0,0.417,0.7685,0.457,1.0,0.8189
+Q06,Internal Med,"In a case of Kawasaki disease in a 14-month-old, what discharge m…",bge-base,general,B,0.8,0.5,0.7227,0.487,0.956,0.7478
+Q07,Allergy/ENT,What symptoms and plan were documented for a 42-year-old woman wi…,bge-base,general,B,1.0,0.417,0.7525,0.457,1.0,0.8189
+Q08,Surgery,What surgical steps were described in a laparoscopic antecolic an…,bge-base,general,B,1.0,0.417,0.7252,0.457,1.0,0.8189
+Q09,Surgery,"For a 42-year-old male weighing 344 pounds with BMI 51, sleep apn…",bge-base,general,B,0.6,0.2,0.7474,0.583,0.967,0.7169
+Q10,Surgery,Describe the eating history and weight loss attempts of a single …,bge-base,general,B,1.0,0.385,0.7497,0.457,1.0,0.8189
+Q11,Surgery,What port placement and bowel division technique was used in a 30…,bge-base,general,B,0.8,0.364,0.7477,0.521,1.0,0.7736
+Q12,Surgery,"In a bariatric consult, what family history, social habits, and r…",bge-base,general,B,1.0,0.385,0.6819,0.457,1.0,0.8189
+Q13,Surgery,"What complications like anastomotic leak, bleeding, DVT, and bowe…",bge-base,general,B,1.0,0.455,0.7937,0.457,1.0,0.8189
+Q14,Internal Med,What were the key 2-D M-mode and Doppler findings in an echocardi…,bge-base,general,B,1.0,0.417,0.7652,0.457,1.0,0.8189
+Q15,Internal Med,Describe the left ventricular findings in a hyperdynamic echocard…,bge-base,general,B,1.0,0.455,0.7529,0.457,1.0,0.8189
+Q16,Internal Med,"In an echo report, what valve abnormalities and pressures were no…",bge-base,general,B,1.0,0.385,0.7839,0.457,1.0,0.8189
+Q17,Internal Med,What normal findings were reported in an echocardiogram with no p…,bge-base,general,B,1.0,0.417,0.8119,0.457,1.0,0.8189
+Q18,Internal Med,For a patient with mild tricuspid regurgitation and right heart p…,bge-base,general,B,1.0,0.5,0.761,0.457,1.0,0.8189
+Q19,Surgery,What procedure details and anesthesia were used in a liposuction …,bge-base,general,B,1.0,0.417,0.7276,0.457,1.0,0.8189
+Q20,Surgery,In a suction-assisted lipectomy for abdominal and thigh lipodystr…,bge-base,general,B,1.0,0.5,0.7355,0.457,1.0,0.8189
+Q21,Cross-spec,Compare the ejection fraction and chamber sizes reported across d…,bge-base,general,B,1.0,0.5,0.7041,0.457,1.0,0.8189
+Q22,Cross-spec,"What common comorbidities (asthma, diabetes, sleep apnea) appear …",bge-base,general,B,1.0,0.385,0.6987,0.457,1.0,0.8189
+Q23,Cross-spec,Describe any mention of allergy testing (RAST) or EpiPen prescrip…,bge-base,general,B,0.6,0.273,0.6809,0.567,0.947,0.7045
+Q24,Cross-spec,"What physical exam findings (wheezing, edema, vital signs) were d…",bge-base,general,B,1.0,0.417,0.6886,0.457,1.0,0.8189
+Q25,Cross-spec,"In cases involving anastomosis (gastric bypass or other), what te…",bge-base,general,B,0.8,0.333,0.6964,0.487,0.956,0.7478
+Q01,Allergy/ENT,What treatments were recommended for a patient with allergic rhin…,Snowflake-M,general,B,0.6,0.333,0.4816,0.528,0.906,0.6779
+Q02,Allergy/ENT,Describe the physical exam findings in the nose and throat for a …,Snowflake-M,general,B,1.0,0.455,0.4333,0.457,1.0,0.8189
+Q03,Allergy/ENT,What nasal spray samples and alternative oral medication were sug…,Snowflake-M,general,B,0.8,0.364,0.4978,0.521,1.0,0.7736
+Q04,Allergy/ENT,"For a patient with chronic sinusitis, facial pain, postnasal drip…",Snowflake-M,general,B,0.8,0.364,0.4827,0.521,1.0,0.7736
+Q05,Allergy/ENT,What history and recommendations were given for a 55-year-old fem…,Snowflake-M,general,B,1.0,0.417,0.4551,0.457,1.0,0.8189
+Q06,Internal Med,"In a case of Kawasaki disease in a 14-month-old, what discharge m…",Snowflake-M,general,B,1.0,0.625,0.4757,0.457,1.0,0.8189
+Q07,Allergy/ENT,What symptoms and plan were documented for a 42-year-old woman wi…,Snowflake-M,general,B,0.8,0.333,0.4437,0.508,0.983,0.7637
+Q08,Surgery,What surgical steps were described in a laparoscopic antecolic an…,Snowflake-M,general,B,1.0,0.417,0.5476,0.457,1.0,0.8189
+Q09,Surgery,"For a 42-year-old male weighing 344 pounds with BMI 51, sleep apn…",Snowflake-M,general,B,0.2,0.067,0.4767,0.25,0.431,0.2936
+Q10,Surgery,Describe the eating history and weight loss attempts of a single …,Snowflake-M,general,B,1.0,0.385,0.4791,0.457,1.0,0.8189
+Q11,Surgery,What port placement and bowel division technique was used in a 30…,Snowflake-M,general,B,1.0,0.455,0.4582,0.457,1.0,0.8189
+Q12,Surgery,"In a bariatric consult, what family history, social habits, and r…",Snowflake-M,general,B,0.8,0.308,0.4838,0.521,1.0,0.7736
+Q13,Surgery,"What complications like anastomotic leak, bleeding, DVT, and bowe…",Snowflake-M,general,B,1.0,0.455,0.5496,0.457,1.0,0.8189
+Q14,Internal Med,What were the key 2-D M-mode and Doppler findings in an echocardi…,Snowflake-M,general,B,1.0,0.417,0.5025,0.457,1.0,0.8189
+Q15,Internal Med,Describe the left ventricular findings in a hyperdynamic echocard…,Snowflake-M,general,B,1.0,0.455,0.5028,0.457,1.0,0.8189
+Q16,Internal Med,"In an echo report, what valve abnormalities and pressures were no…",Snowflake-M,general,B,1.0,0.385,0.5491,0.457,1.0,0.8189
+Q17,Internal Med,What normal findings were reported in an echocardiogram with no p…,Snowflake-M,general,B,1.0,0.417,0.5786,0.457,1.0,0.8189
+Q18,Internal Med,For a patient with mild tricuspid regurgitation and right heart p…,Snowflake-M,general,B,0.8,0.4,0.4856,0.521,1.0,0.7736
+Q19,Surgery,What procedure details and anesthesia were used in a liposuction …,Snowflake-M,general,B,1.0,0.417,0.508,0.457,1.0,0.8189
+Q20,Surgery,In a suction-assisted lipectomy for abdominal and thigh lipodystr…,Snowflake-M,general,B,0.6,0.3,0.5094,0.611,1.0,0.737
+Q21,Cross-spec,Compare the ejection fraction and chamber sizes reported across d…,Snowflake-M,general,B,1.0,0.5,0.4325,0.457,1.0,0.8189
+Q22,Cross-spec,"What common comorbidities (asthma, diabetes, sleep apnea) appear …",Snowflake-M,general,B,1.0,0.385,0.5083,0.457,1.0,0.8189
+Q23,Cross-spec,Describe any mention of allergy testing (RAST) or EpiPen prescrip…,Snowflake-M,general,B,0.8,0.364,0.427,0.487,0.956,0.7478
+Q24,Cross-spec,"What physical exam findings (wheezing, edema, vital signs) were d…",Snowflake-M,general,B,0.8,0.333,0.4529,0.321,0.761,0.6272
+Q25,Cross-spec,"In cases involving anastomosis (gastric bypass or other), what te…",Snowflake-M,general,B,0.8,0.333,0.4634,0.521,1.0,0.7736
+Q01,Allergy/ENT,What treatments were recommended for a patient with allergic rhin…,e5-large,general,B,0.6,0.333,0.858,0.511,0.885,0.6655
+Q02,Allergy/ENT,Describe the physical exam findings in the nose and throat for a …,e5-large,general,B,0.8,0.364,0.8777,0.446,0.905,0.7169
+Q03,Allergy/ENT,What nasal spray samples and alternative oral medication were sug…,e5-large,general,B,0.8,0.364,0.847,0.508,0.983,0.7637
+Q04,Allergy/ENT,"For a patient with chronic sinusitis, facial pain, postnasal drip…",e5-large,general,B,1.0,0.455,0.8574,0.457,1.0,0.8189
+Q05,Allergy/ENT,What history and recommendations were given for a 55-year-old fem…,e5-large,general,B,0.6,0.25,0.8749,0.583,0.967,0.7169
+Q06,Internal Med,"In a case of Kawasaki disease in a 14-month-old, what discharge m…",e5-large,general,B,0.6,0.375,0.8545,0.611,1.0,0.737
+Q07,Allergy/ENT,What symptoms and plan were documented for a 42-year-old woman wi…,e5-large,general,B,0.8,0.333,0.8631,0.508,0.983,0.7637
+Q08,Surgery,What surgical steps were described in a laparoscopic antecolic an…,e5-large,general,B,1.0,0.417,0.874,0.457,1.0,0.8189
+Q09,Surgery,"For a 42-year-old male weighing 344 pounds with BMI 51, sleep apn…",e5-large,general,B,0.8,0.267,0.8671,0.487,0.956,0.7478
+Q10,Surgery,Describe the eating history and weight loss attempts of a single …,e5-large,general,B,1.0,0.385,0.8668,0.457,1.0,0.8189
+Q11,Surgery,What port placement and bowel division technique was used in a 30…,e5-large,general,B,1.0,0.455,0.8646,0.457,1.0,0.8189
+Q12,Surgery,"In a bariatric consult, what family history, social habits, and r…",e5-large,general,B,1.0,0.385,0.8486,0.457,1.0,0.8189
+Q13,Surgery,"What complications like anastomotic leak, bleeding, DVT, and bowe…",e5-large,general,B,1.0,0.455,0.8779,0.457,1.0,0.8189
+Q14,Internal Med,What were the key 2-D M-mode and Doppler findings in an echocardi…,e5-large,general,B,1.0,0.417,0.878,0.457,1.0,0.8189
+Q15,Internal Med,Describe the left ventricular findings in a hyperdynamic echocard…,e5-large,general,B,0.8,0.364,0.8775,0.508,0.983,0.7637
+Q16,Internal Med,"In an echo report, what valve abnormalities and pressures were no…",e5-large,general,B,1.0,0.385,0.8631,0.457,1.0,0.8189
+Q17,Internal Med,What normal findings were reported in an echocardiogram with no p…,e5-large,general,B,1.0,0.417,0.8866,0.457,1.0,0.8189
+Q18,Internal Med,For a patient with mild tricuspid regurgitation and right heart p…,e5-large,general,B,1.0,0.5,0.8619,0.457,1.0,0.8189
+Q19,Surgery,What procedure details and anesthesia were used in a liposuction …,e5-large,general,B,0.8,0.333,0.8676,0.521,1.0,0.7736
+Q20,Surgery,In a suction-assisted lipectomy for abdominal and thigh lipodystr…,e5-large,general,B,1.0,0.5,0.8661,0.457,1.0,0.8189
+Q21,Cross-spec,Compare the ejection fraction and chamber sizes reported across d…,e5-large,general,B,0.8,0.4,0.8425,0.446,0.905,0.7169
+Q22,Cross-spec,"What common comorbidities (asthma, diabetes, sleep apnea) appear …",e5-large,general,B,1.0,0.385,0.8467,0.457,1.0,0.8189
+Q23,Cross-spec,Describe any mention of allergy testing (RAST) or EpiPen prescrip…,e5-large,general,B,0.6,0.273,0.8508,0.567,0.947,0.7045
+Q24,Cross-spec,"What physical exam findings (wheezing, edema, vital signs) were d…",e5-large,general,B,0.6,0.25,0.8452,0.567,0.947,0.7045
+Q25,Cross-spec,"In cases involving anastomosis (gastric bypass or other), what te…",e5-large,general,B,0.8,0.333,0.8387,0.521,1.0,0.7736
+Q01,Allergy/ENT,What treatments were recommended for a patient with allergic rhin…,GTE-Large,general,B,0.6,0.333,0.864,0.483,0.853,0.6454
+Q02,Allergy/ENT,Describe the physical exam findings in the nose and throat for a …,GTE-Large,general,B,0.6,0.273,0.8713,0.528,0.906,0.6779
+Q03,Allergy/ENT,What nasal spray samples and alternative oral medication were sug…,GTE-Large,general,B,0.8,0.364,0.8633,0.487,0.956,0.7478
+Q04,Allergy/ENT,"For a patient with chronic sinusitis, facial pain, postnasal drip…",GTE-Large,general,B,1.0,0.455,0.8749,0.457,1.0,0.8189
+Q05,Allergy/ENT,What history and recommendations were given for a 55-year-old fem…,GTE-Large,general,B,0.6,0.25,0.8792,0.611,1.0,0.737
+Q06,Internal Med,"In a case of Kawasaki disease in a 14-month-old, what discharge m…",GTE-Large,general,B,0.6,0.375,0.8723,0.567,0.947,0.7045
+Q07,Allergy/ENT,What symptoms and plan were documented for a 42-year-old woman wi…,GTE-Large,general,B,0.8,0.333,0.8596,0.521,1.0,0.7736
+Q08,Surgery,What surgical steps were described in a laparoscopic antecolic an…,GTE-Large,general,B,1.0,0.417,0.8775,0.457,1.0,0.8189
+Q09,Surgery,"For a 42-year-old male weighing 344 pounds with BMI 51, sleep apn…",GTE-Large,general,B,1.0,0.333,0.8722,0.457,1.0,0.8189
+Q10,Surgery,Describe the eating history and weight loss attempts of a single …,GTE-Large,general,B,1.0,0.385,0.8889,0.457,1.0,0.8189
+Q11,Surgery,What port placement and bowel division technique was used in a 30…,GTE-Large,general,B,1.0,0.455,0.8703,0.457,1.0,0.8189
+Q12,Surgery,"In a bariatric consult, what family history, social habits, and r…",GTE-Large,general,B,0.8,0.308,0.8717,0.521,1.0,0.7736
+Q13,Surgery,"What complications like anastomotic leak, bleeding, DVT, and bowe…",GTE-Large,general,B,1.0,0.455,0.8816,0.457,1.0,0.8189
+Q14,Internal Med,What were the key 2-D M-mode and Doppler findings in an echocardi…,GTE-Large,general,B,1.0,0.417,0.8911,0.457,1.0,0.8189
+Q15,Internal Med,Describe the left ventricular findings in a hyperdynamic echocard…,GTE-Large,general,B,0.8,0.364,0.8734,0.508,0.983,0.7637
+Q16,Internal Med,"In an echo report, what valve abnormalities and pressures were no…",GTE-Large,general,B,1.0,0.385,0.9004,0.457,1.0,0.8189
+Q17,Internal Med,What normal findings were reported in an echocardiogram with no p…,GTE-Large,general,B,1.0,0.417,0.8925,0.457,1.0,0.8189
+Q18,Internal Med,For a patient with mild tricuspid regurgitation and right heart p…,GTE-Large,general,B,1.0,0.5,0.869,0.457,1.0,0.8189
+Q19,Surgery,What procedure details and anesthesia were used in a liposuction …,GTE-Large,general,B,1.0,0.417,0.8887,0.457,1.0,0.8189
+Q20,Surgery,In a suction-assisted lipectomy for abdominal and thigh lipodystr…,GTE-Large,general,B,1.0,0.5,0.8913,0.457,1.0,0.8189
+Q21,Cross-spec,Compare the ejection fraction and chamber sizes reported across d…,GTE-Large,general,B,0.8,0.4,0.8449,0.521,1.0,0.7736
+Q22,Cross-spec,"What common comorbidities (asthma, diabetes, sleep apnea) appear …",GTE-Large,general,B,1.0,0.385,0.847,0.457,1.0,0.8189
+Q23,Cross-spec,Describe any mention of allergy testing (RAST) or EpiPen prescrip…,GTE-Large,general,B,0.6,0.273,0.8651,0.611,1.0,0.737
+Q24,Cross-spec,"What physical exam findings (wheezing, edema, vital signs) were d…",GTE-Large,general,B,0.4,0.167,0.8637,0.667,0.92,0.6621
+Q25,Cross-spec,"In cases involving anastomosis (gastric bypass or other), what te…",GTE-Large,general,B,0.8,0.333,0.8722,0.487,0.956,0.7478
+Q01,Allergy/ENT,What treatments were recommended for a patient with allergic rhin…,PubMedBERT,medical,B,0.8,0.444,0.6376,0.487,0.956,0.7478
+Q02,Allergy/ENT,Describe the physical exam findings in the nose and throat for a …,PubMedBERT,medical,B,0.6,0.273,0.6547,0.317,0.68,0.5321
+Q03,Allergy/ENT,What nasal spray samples and alternative oral medication were sug…,PubMedBERT,medical,B,1.0,0.455,0.5587,0.457,1.0,0.8189
+Q04,Allergy/ENT,"For a patient with chronic sinusitis, facial pain, postnasal drip…",PubMedBERT,medical,B,0.8,0.364,0.7035,0.508,0.983,0.7637
+Q05,Allergy/ENT,What history and recommendations were given for a 55-year-old fem…,PubMedBERT,medical,B,0.6,0.25,0.7164,0.611,1.0,0.737
+Q06,Internal Med,"In a case of Kawasaki disease in a 14-month-old, what discharge m…",PubMedBERT,medical,B,0.2,0.125,0.6382,1.0,1.0,0.7333
+Q07,Allergy/ENT,What symptoms and plan were documented for a 42-year-old woman wi…,PubMedBERT,medical,B,0.8,0.333,0.6683,0.521,1.0,0.7736
+Q08,Surgery,What surgical steps were described in a laparoscopic antecolic an…,PubMedBERT,medical,B,1.0,0.417,0.6785,0.457,1.0,0.8189
+Q09,Surgery,"For a 42-year-old male weighing 344 pounds with BMI 51, sleep apn…",PubMedBERT,medical,B,0.8,0.267,0.6848,0.521,1.0,0.7736
+Q10,Surgery,Describe the eating history and weight loss attempts of a single …,PubMedBERT,medical,B,1.0,0.385,0.7413,0.457,1.0,0.8189
+Q11,Surgery,What port placement and bowel division technique was used in a 30…,PubMedBERT,medical,B,1.0,0.455,0.6287,0.457,1.0,0.8189
+Q12,Surgery,"In a bariatric consult, what family history, social habits, and r…",PubMedBERT,medical,B,1.0,0.385,0.6636,0.457,1.0,0.8189
+Q13,Surgery,"What complications like anastomotic leak, bleeding, DVT, and bowe…",PubMedBERT,medical,B,1.0,0.455,0.7074,0.457,1.0,0.8189
+Q14,Internal Med,What were the key 2-D M-mode and Doppler findings in an echocardi…,PubMedBERT,medical,B,1.0,0.417,0.751,0.457,1.0,0.8189
+Q15,Internal Med,Describe the left ventricular findings in a hyperdynamic echocard…,PubMedBERT,medical,B,0.6,0.273,0.6858,0.528,0.906,0.6779
+Q16,Internal Med,"In an echo report, what valve abnormalities and pressures were no…",PubMedBERT,medical,B,1.0,0.385,0.7554,0.457,1.0,0.8189
+Q17,Internal Med,What normal findings were reported in an echocardiogram with no p…,PubMedBERT,medical,B,1.0,0.417,0.7552,0.457,1.0,0.8189
+Q18,Internal Med,For a patient with mild tricuspid regurgitation and right heart p…,PubMedBERT,medical,B,0.8,0.4,0.6468,0.521,1.0,0.7736
+Q19,Surgery,What procedure details and anesthesia were used in a liposuction …,PubMedBERT,medical,B,1.0,0.417,0.717,0.457,1.0,0.8189
+Q20,Surgery,In a suction-assisted lipectomy for abdominal and thigh lipodystr…,PubMedBERT,medical,B,0.6,0.3,0.586,0.583,0.967,0.7169
+Q21,Cross-spec,Compare the ejection fraction and chamber sizes reported across d…,PubMedBERT,medical,B,0.8,0.4,0.4275,0.446,0.905,0.7169
+Q22,Cross-spec,"What common comorbidities (asthma, diabetes, sleep apnea) appear …",PubMedBERT,medical,B,1.0,0.385,0.5714,0.457,1.0,0.8189
+Q23,Cross-spec,Describe any mention of allergy testing (RAST) or EpiPen prescrip…,PubMedBERT,medical,B,0.6,0.273,0.5781,0.528,0.906,0.6779
+Q24,Cross-spec,"What physical exam findings (wheezing, edema, vital signs) were d…",PubMedBERT,medical,B,0.8,0.333,0.5864,0.521,1.0,0.7736
+Q25,Cross-spec,"In cases involving anastomosis (gastric bypass or other), what te…",PubMedBERT,medical,B,0.8,0.333,0.5951,0.487,0.956,0.7478
+Q01,Allergy/ENT,What treatments were recommended for a patient with allergic rhin…,S-PubMedBERT,medical,B,0.6,0.333,0.9235,0.528,0.906,0.6779
+Q02,Allergy/ENT,Describe the physical exam findings in the nose and throat for a …,S-PubMedBERT,medical,B,0.6,0.273,0.9372,0.567,0.947,0.7045
+Q03,Allergy/ENT,What nasal spray samples and alternative oral medication were sug…,S-PubMedBERT,medical,B,1.0,0.455,0.9197,0.457,1.0,0.8189
+Q04,Allergy/ENT,"For a patient with chronic sinusitis, facial pain, postnasal drip…",S-PubMedBERT,medical,B,1.0,0.455,0.9465,0.457,1.0,0.8189
+Q05,Allergy/ENT,What history and recommendations were given for a 55-year-old fem…,S-PubMedBERT,medical,B,0.8,0.333,0.9453,0.487,0.956,0.7478
+Q06,Internal Med,"In a case of Kawasaki disease in a 14-month-old, what discharge m…",S-PubMedBERT,medical,B,0.8,0.5,0.944,0.508,0.983,0.7637
+Q07,Allergy/ENT,What symptoms and plan were documented for a 42-year-old woman wi…,S-PubMedBERT,medical,B,0.8,0.333,0.9451,0.508,0.983,0.7637
+Q08,Surgery,What surgical steps were described in a laparoscopic antecolic an…,S-PubMedBERT,medical,B,1.0,0.417,0.93,0.457,1.0,0.8189
+Q09,Surgery,"For a 42-year-old male weighing 344 pounds with BMI 51, sleep apn…",S-PubMedBERT,medical,B,1.0,0.333,0.9538,0.457,1.0,0.8189
+Q10,Surgery,Describe the eating history and weight loss attempts of a single …,S-PubMedBERT,medical,B,1.0,0.385,0.9376,0.457,1.0,0.8189
+Q11,Surgery,What port placement and bowel division technique was used in a 30…,S-PubMedBERT,medical,B,1.0,0.455,0.9348,0.457,1.0,0.8189
+Q12,Surgery,"In a bariatric consult, what family history, social habits, and r…",S-PubMedBERT,medical,B,1.0,0.385,0.9184,0.457,1.0,0.8189
+Q13,Surgery,"What complications like anastomotic leak, bleeding, DVT, and bowe…",S-PubMedBERT,medical,B,1.0,0.455,0.9408,0.457,1.0,0.8189
+Q14,Internal Med,What were the key 2-D M-mode and Doppler findings in an echocardi…,S-PubMedBERT,medical,B,1.0,0.417,0.9624,0.457,1.0,0.8189
+Q15,Internal Med,Describe the left ventricular findings in a hyperdynamic echocard…,S-PubMedBERT,medical,B,1.0,0.455,0.9602,0.457,1.0,0.8189
+Q16,Internal Med,"In an echo report, what valve abnormalities and pressures were no…",S-PubMedBERT,medical,B,1.0,0.385,0.953,0.457,1.0,0.8189
+Q17,Internal Med,What normal findings were reported in an echocardiogram with no p…,S-PubMedBERT,medical,B,1.0,0.417,0.9604,0.457,1.0,0.8189
+Q18,Internal Med,For a patient with mild tricuspid regurgitation and right heart p…,S-PubMedBERT,medical,B,1.0,0.5,0.9498,0.457,1.0,0.8189
+Q19,Surgery,What procedure details and anesthesia were used in a liposuction …,S-PubMedBERT,medical,B,1.0,0.417,0.9334,0.457,1.0,0.8189
+Q20,Surgery,In a suction-assisted lipectomy for abdominal and thigh lipodystr…,S-PubMedBERT,medical,B,1.0,0.5,0.9397,0.457,1.0,0.8189
+Q21,Cross-spec,Compare the ejection fraction and chamber sizes reported across d…,S-PubMedBERT,medical,B,0.8,0.4,0.9411,0.487,0.956,0.7478
+Q22,Cross-spec,"What common comorbidities (asthma, diabetes, sleep apnea) appear …",S-PubMedBERT,medical,B,1.0,0.385,0.9318,0.457,1.0,0.8189
+Q23,Cross-spec,Describe any mention of allergy testing (RAST) or EpiPen prescrip…,S-PubMedBERT,medical,B,0.4,0.182,0.9213,0.75,1.0,0.7167
+Q24,Cross-spec,"What physical exam findings (wheezing, edema, vital signs) were d…",S-PubMedBERT,medical,B,0.6,0.25,0.9277,0.567,0.947,0.7045
+Q25,Cross-spec,"In cases involving anastomosis (gastric bypass or other), what te…",S-PubMedBERT,medical,B,0.8,0.333,0.9269,0.521,1.0,0.7736
+Q01,Allergy/ENT,What treatments were recommended for a patient with allergic rhin…,MedEmbed-L,medical,B,0.8,0.444,0.712,0.521,1.0,0.7736
+Q02,Allergy/ENT,Describe the physical exam findings in the nose and throat for a …,MedEmbed-L,medical,B,0.8,0.364,0.7671,0.487,0.956,0.7478
+Q03,Allergy/ENT,What nasal spray samples and alternative oral medication were sug…,MedEmbed-L,medical,B,1.0,0.455,0.6838,0.457,1.0,0.8189
+Q04,Allergy/ENT,"For a patient with chronic sinusitis, facial pain, postnasal drip…",MedEmbed-L,medical,B,0.8,0.364,0.7084,0.521,1.0,0.7736
+Q05,Allergy/ENT,What history and recommendations were given for a 55-year-old fem…,MedEmbed-L,medical,B,1.0,0.417,0.7445,0.457,1.0,0.8189
+Q06,Internal Med,"In a case of Kawasaki disease in a 14-month-old, what discharge m…",MedEmbed-L,medical,B,1.0,0.625,0.7404,0.457,1.0,0.8189
+Q07,Allergy/ENT,What symptoms and plan were documented for a 42-year-old woman wi…,MedEmbed-L,medical,B,0.8,0.333,0.7538,0.446,0.905,0.7169
+Q08,Surgery,What surgical steps were described in a laparoscopic antecolic an…,MedEmbed-L,medical,B,1.0,0.417,0.7567,0.457,1.0,0.8189
+Q09,Surgery,"For a 42-year-old male weighing 344 pounds with BMI 51, sleep apn…",MedEmbed-L,medical,B,1.0,0.333,0.7374,0.457,1.0,0.8189
+Q10,Surgery,Describe the eating history and weight loss attempts of a single …,MedEmbed-L,medical,B,1.0,0.385,0.7689,0.457,1.0,0.8189
+Q11,Surgery,What port placement and bowel division technique was used in a 30…,MedEmbed-L,medical,B,0.8,0.364,0.7175,0.446,0.905,0.7169
+Q12,Surgery,"In a bariatric consult, what family history, social habits, and r…",MedEmbed-L,medical,B,1.0,0.385,0.706,0.457,1.0,0.8189
+Q13,Surgery,"What complications like anastomotic leak, bleeding, DVT, and bowe…",MedEmbed-L,medical,B,1.0,0.455,0.7431,0.457,1.0,0.8189
+Q14,Internal Med,What were the key 2-D M-mode and Doppler findings in an echocardi…,MedEmbed-L,medical,B,1.0,0.417,0.7556,0.457,1.0,0.8189
+Q15,Internal Med,Describe the left ventricular findings in a hyperdynamic echocard…,MedEmbed-L,medical,B,1.0,0.455,0.7472,0.457,1.0,0.8189
+Q16,Internal Med,"In an echo report, what valve abnormalities and pressures were no…",MedEmbed-L,medical,B,1.0,0.385,0.7506,0.457,1.0,0.8189
+Q17,Internal Med,What normal findings were reported in an echocardiogram with no p…,MedEmbed-L,medical,B,1.0,0.417,0.7851,0.457,1.0,0.8189
+Q18,Internal Med,For a patient with mild tricuspid regurgitation and right heart p…,MedEmbed-L,medical,B,1.0,0.5,0.759,0.457,1.0,0.8189
+Q19,Surgery,What procedure details and anesthesia were used in a liposuction …,MedEmbed-L,medical,B,1.0,0.417,0.7539,0.457,1.0,0.8189
+Q20,Surgery,In a suction-assisted lipectomy for abdominal and thigh lipodystr…,MedEmbed-L,medical,B,0.6,0.3,0.7343,0.611,1.0,0.737
+Q21,Cross-spec,Compare the ejection fraction and chamber sizes reported across d…,MedEmbed-L,medical,B,0.8,0.4,0.703,0.321,0.761,0.6272
+Q22,Cross-spec,"What common comorbidities (asthma, diabetes, sleep apnea) appear …",MedEmbed-L,medical,B,1.0,0.385,0.6786,0.457,1.0,0.8189
+Q23,Cross-spec,Describe any mention of allergy testing (RAST) or EpiPen prescrip…,MedEmbed-L,medical,B,0.6,0.273,0.7147,0.483,0.853,0.6454
+Q24,Cross-spec,"What physical exam findings (wheezing, edema, vital signs) were d…",MedEmbed-L,medical,B,0.8,0.333,0.716,0.446,0.905,0.7169
+Q25,Cross-spec,"In cases involving anastomosis (gastric bypass or other), what te…",MedEmbed-L,medical,B,0.6,0.25,0.7169,0.528,0.906,0.6779

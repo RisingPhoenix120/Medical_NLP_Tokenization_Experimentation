@@ -1,0 +1,2 @@
+Model,Type,Experiment,Dim,Embed Time (s),Total Time (s),Model RAM (MB),VRAM (MB),Avg Prec@5,Avg Recall@5,Avg Sim@5,Avg MRR@5,Avg nDCG@5,Overall Quality
+bge-small,general,A,384,7.8,8.0,35.0,79.0,0.864,0.381,0.7659,0.498,0.99,0.7837

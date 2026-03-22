@@ -1,0 +1,2 @@
+Model,Type,Experiment,Dim,Embed Time (s),Total Time (s),Model RAM (MB),VRAM (MB),Avg Prec@5,Avg Recall@5,Avg Sim@5,Avg MRR@5,Avg nDCG@5,Overall Quality
+Snowflake-M,general,A,768,11.7,11.9,11.0,242.0,0.88,0.392,0.4874,0.468,0.965,0.771

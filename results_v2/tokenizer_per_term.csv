@@ -1,0 +1,541 @@
+Model,Type,Term,N_Tokens,Subwords,Has_UNK
+MiniLM-L6,general,Actinobacillus,5,act | ##ino | ##ba | ##ci | ##llus,False
+MiniLM-L6,general,Adenine,2,aden | ##ine,False
+MiniLM-L6,general,Anisomelia,4,an | ##iso | ##mel | ##ia,False
+MiniLM-L6,general,Anterograde,3,ant | ##ero | ##grade,False
+MiniLM-L6,general,Antifungal,4,anti | ##fu | ##nga | ##l,False
+MiniLM-L6,general,Armorhead,2,armor | ##head,False
+MiniLM-L6,general,Banner,1,banner,False
+MiniLM-L6,general,Boiron,3,bo | ##iro | ##n,False
+MiniLM-L6,general,Bulrush,3,bu | ##lr | ##ush,False
+MiniLM-L6,general,Calyptospora,5,cal | ##yp | ##tos | ##por | ##a,False
+MiniLM-L6,general,Circinella,4,ci | ##rc | ##ine | ##lla,False
+MiniLM-L6,general,Clupeotoxin,5,cl | ##up | ##eo | ##to | ##xin,False
+MiniLM-L6,general,Colourful,1,colourful,False
+MiniLM-L6,general,Corpus,1,corpus,False
+MiniLM-L6,general,Cryptotomus,3,crypt | ##oto | ##mus,False
+MiniLM-L6,general,Cyclamate,4,cy | ##cl | ##ama | ##te,False
+MiniLM-L6,general,Epicauta,3,epic | ##au | ##ta,False
+MiniLM-L6,general,Ethylnorgestrienone,7,et | ##hyl | ##nor | ##ges | ##tri | ##eno | ##ne,False
+MiniLM-L6,general,Fibromuscular,4,fi | ##bro | ##mus | ##cular,False
+MiniLM-L6,general,Framboesiform,4,fra | ##mbo | ##es | ##iform,False
+MiniLM-L6,general,Glaucomatocyclitic,7,g | ##lau | ##com | ##ato | ##cy | ##cl | ##itic,False
+MiniLM-L6,general,Haemoglobin,5,ha | ##em | ##og | ##lo | ##bin,False
+MiniLM-L6,general,Healed,1,healed,False
+MiniLM-L6,general,Hidradenitis,4,hid | ##rade | ##ni | ##tis,False
+MiniLM-L6,general,Hyperactivity,3,hyper | ##act | ##ivity,False
+MiniLM-L6,general,Immunofluorescence,5,im | ##mun | ##of | ##lu | ##orescence,False
+MiniLM-L6,general,Intermediary,3,inter | ##media | ##ry,False
+MiniLM-L6,general,Irrelevant,1,irrelevant,False
+MiniLM-L6,general,Ketosteroids,4,ke | ##tos | ##ter | ##oids,False
+MiniLM-L6,general,Laughter,1,laughter,False
+MiniLM-L6,general,Lissemys,4,li | ##sse | ##my | ##s,False
+MiniLM-L6,general,Loxosceles,5,lo | ##x | ##os | ##cel | ##es,False
+MiniLM-L6,general,Lycopersicon,5,l | ##y | ##cope | ##rs | ##icon,False
+MiniLM-L6,general,Malaise,2,mala | ##ise,False
+MiniLM-L6,general,Microrepair,4,micro | ##re | ##pa | ##ir,False
+MiniLM-L6,general,Migratory,1,migratory,False
+MiniLM-L6,general,Millipede,3,mill | ##ipe | ##de,False
+MiniLM-L6,general,Mycitracin,4,my | ##cit | ##rac | ##in,False
+MiniLM-L6,general,Myers,1,myers,False
+MiniLM-L6,general,Notch,1,notch,False
+MiniLM-L6,general,Notched,2,notch | ##ed,False
+MiniLM-L6,general,Oligohidrosis,4,ol | ##igo | ##hid | ##rosis,False
+MiniLM-L6,general,Paraduodenal,4,para | ##du | ##ode | ##nal,False
+MiniLM-L6,general,Phosmet,3,ph | ##os | ##met,False
+MiniLM-L6,general,Photogenic,2,photo | ##genic,False
+MiniLM-L6,general,Pneumopyopericardium,9,p | ##ne | ##um | ##op | ##yo | ##per | ##ica | ##rdi | ##um,False
+MiniLM-L6,general,Prague,1,prague,False
+MiniLM-L6,general,Repeat,1,repeat,False
+MiniLM-L6,general,Robin,1,robin,False
+MiniLM-L6,general,Rowley,2,row | ##ley,False
+MiniLM-L6,general,Rumination,2,rum | ##ination,False
+MiniLM-L6,general,Sciaenops,4,sci | ##ae | ##no | ##ps,False
+MiniLM-L6,general,Simultaneous,1,simultaneous,False
+MiniLM-L6,general,Solandra,2,sol | ##andra,False
+MiniLM-L6,general,Tamarao,2,tamara | ##o,False
+MiniLM-L6,general,Theatrical,1,theatrical,False
+MiniLM-L6,general,Thromboembolus,6,th | ##rom | ##bo | ##em | ##bol | ##us,False
+MiniLM-L6,general,Trinitrotoluene,6,tri | ##ni | ##tro | ##to | ##lu | ##ene,False
+MiniLM-L6,general,Underexerted,3,under | ##ex | ##erted,False
+MiniLM-L6,general,Ventriculopleural,5,vent | ##ric | ##ulo | ##ple | ##ural,False
+bge-small,general,Actinobacillus,5,act | ##ino | ##ba | ##ci | ##llus,False
+bge-small,general,Adenine,2,aden | ##ine,False
+bge-small,general,Anisomelia,4,an | ##iso | ##mel | ##ia,False
+bge-small,general,Anterograde,3,ant | ##ero | ##grade,False
+bge-small,general,Antifungal,4,anti | ##fu | ##nga | ##l,False
+bge-small,general,Armorhead,2,armor | ##head,False
+bge-small,general,Banner,1,banner,False
+bge-small,general,Boiron,3,bo | ##iro | ##n,False
+bge-small,general,Bulrush,3,bu | ##lr | ##ush,False
+bge-small,general,Calyptospora,5,cal | ##yp | ##tos | ##por | ##a,False
+bge-small,general,Circinella,4,ci | ##rc | ##ine | ##lla,False
+bge-small,general,Clupeotoxin,5,cl | ##up | ##eo | ##to | ##xin,False
+bge-small,general,Colourful,1,colourful,False
+bge-small,general,Corpus,1,corpus,False
+bge-small,general,Cryptotomus,3,crypt | ##oto | ##mus,False
+bge-small,general,Cyclamate,4,cy | ##cl | ##ama | ##te,False
+bge-small,general,Epicauta,3,epic | ##au | ##ta,False
+bge-small,general,Ethylnorgestrienone,7,et | ##hyl | ##nor | ##ges | ##tri | ##eno | ##ne,False
+bge-small,general,Fibromuscular,4,fi | ##bro | ##mus | ##cular,False
+bge-small,general,Framboesiform,4,fra | ##mbo | ##es | ##iform,False
+bge-small,general,Glaucomatocyclitic,7,g | ##lau | ##com | ##ato | ##cy | ##cl | ##itic,False
+bge-small,general,Haemoglobin,5,ha | ##em | ##og | ##lo | ##bin,False
+bge-small,general,Healed,1,healed,False
+bge-small,general,Hidradenitis,4,hid | ##rade | ##ni | ##tis,False
+bge-small,general,Hyperactivity,3,hyper | ##act | ##ivity,False
+bge-small,general,Immunofluorescence,5,im | ##mun | ##of | ##lu | ##orescence,False
+bge-small,general,Intermediary,3,inter | ##media | ##ry,False
+bge-small,general,Irrelevant,1,irrelevant,False
+bge-small,general,Ketosteroids,4,ke | ##tos | ##ter | ##oids,False
+bge-small,general,Laughter,1,laughter,False
+bge-small,general,Lissemys,4,li | ##sse | ##my | ##s,False
+bge-small,general,Loxosceles,5,lo | ##x | ##os | ##cel | ##es,False
+bge-small,general,Lycopersicon,5,l | ##y | ##cope | ##rs | ##icon,False
+bge-small,general,Malaise,2,mala | ##ise,False
+bge-small,general,Microrepair,4,micro | ##re | ##pa | ##ir,False
+bge-small,general,Migratory,1,migratory,False
+bge-small,general,Millipede,3,mill | ##ipe | ##de,False
+bge-small,general,Mycitracin,4,my | ##cit | ##rac | ##in,False
+bge-small,general,Myers,1,myers,False
+bge-small,general,Notch,1,notch,False
+bge-small,general,Notched,2,notch | ##ed,False
+bge-small,general,Oligohidrosis,4,ol | ##igo | ##hid | ##rosis,False
+bge-small,general,Paraduodenal,4,para | ##du | ##ode | ##nal,False
+bge-small,general,Phosmet,3,ph | ##os | ##met,False
+bge-small,general,Photogenic,2,photo | ##genic,False
+bge-small,general,Pneumopyopericardium,9,p | ##ne | ##um | ##op | ##yo | ##per | ##ica | ##rdi | ##um,False
+bge-small,general,Prague,1,prague,False
+bge-small,general,Repeat,1,repeat,False
+bge-small,general,Robin,1,robin,False
+bge-small,general,Rowley,2,row | ##ley,False
+bge-small,general,Rumination,2,rum | ##ination,False
+bge-small,general,Sciaenops,4,sci | ##ae | ##no | ##ps,False
+bge-small,general,Simultaneous,1,simultaneous,False
+bge-small,general,Solandra,2,sol | ##andra,False
+bge-small,general,Tamarao,2,tamara | ##o,False
+bge-small,general,Theatrical,1,theatrical,False
+bge-small,general,Thromboembolus,6,th | ##rom | ##bo | ##em | ##bol | ##us,False
+bge-small,general,Trinitrotoluene,6,tri | ##ni | ##tro | ##to | ##lu | ##ene,False
+bge-small,general,Underexerted,3,under | ##ex | ##erted,False
+bge-small,general,Ventriculopleural,5,vent | ##ric | ##ulo | ##ple | ##ural,False
+bge-base,general,Actinobacillus,5,act | ##ino | ##ba | ##ci | ##llus,False
+bge-base,general,Adenine,2,aden | ##ine,False
+bge-base,general,Anisomelia,4,an | ##iso | ##mel | ##ia,False
+bge-base,general,Anterograde,3,ant | ##ero | ##grade,False
+bge-base,general,Antifungal,4,anti | ##fu | ##nga | ##l,False
+bge-base,general,Armorhead,2,armor | ##head,False
+bge-base,general,Banner,1,banner,False
+bge-base,general,Boiron,3,bo | ##iro | ##n,False
+bge-base,general,Bulrush,3,bu | ##lr | ##ush,False
+bge-base,general,Calyptospora,5,cal | ##yp | ##tos | ##por | ##a,False
+bge-base,general,Circinella,4,ci | ##rc | ##ine | ##lla,False
+bge-base,general,Clupeotoxin,5,cl | ##up | ##eo | ##to | ##xin,False
+bge-base,general,Colourful,1,colourful,False
+bge-base,general,Corpus,1,corpus,False
+bge-base,general,Cryptotomus,3,crypt | ##oto | ##mus,False
+bge-base,general,Cyclamate,4,cy | ##cl | ##ama | ##te,False
+bge-base,general,Epicauta,3,epic | ##au | ##ta,False
+bge-base,general,Ethylnorgestrienone,7,et | ##hyl | ##nor | ##ges | ##tri | ##eno | ##ne,False
+bge-base,general,Fibromuscular,4,fi | ##bro | ##mus | ##cular,False
+bge-base,general,Framboesiform,4,fra | ##mbo | ##es | ##iform,False
+bge-base,general,Glaucomatocyclitic,7,g | ##lau | ##com | ##ato | ##cy | ##cl | ##itic,False
+bge-base,general,Haemoglobin,5,ha | ##em | ##og | ##lo | ##bin,False
+bge-base,general,Healed,1,healed,False
+bge-base,general,Hidradenitis,4,hid | ##rade | ##ni | ##tis,False
+bge-base,general,Hyperactivity,3,hyper | ##act | ##ivity,False
+bge-base,general,Immunofluorescence,5,im | ##mun | ##of | ##lu | ##orescence,False
+bge-base,general,Intermediary,3,inter | ##media | ##ry,False
+bge-base,general,Irrelevant,1,irrelevant,False
+bge-base,general,Ketosteroids,4,ke | ##tos | ##ter | ##oids,False
+bge-base,general,Laughter,1,laughter,False
+bge-base,general,Lissemys,4,li | ##sse | ##my | ##s,False
+bge-base,general,Loxosceles,5,lo | ##x | ##os | ##cel | ##es,False
+bge-base,general,Lycopersicon,5,l | ##y | ##cope | ##rs | ##icon,False
+bge-base,general,Malaise,2,mala | ##ise,False
+bge-base,general,Microrepair,4,micro | ##re | ##pa | ##ir,False
+bge-base,general,Migratory,1,migratory,False
+bge-base,general,Millipede,3,mill | ##ipe | ##de,False
+bge-base,general,Mycitracin,4,my | ##cit | ##rac | ##in,False
+bge-base,general,Myers,1,myers,False
+bge-base,general,Notch,1,notch,False
+bge-base,general,Notched,2,notch | ##ed,False
+bge-base,general,Oligohidrosis,4,ol | ##igo | ##hid | ##rosis,False
+bge-base,general,Paraduodenal,4,para | ##du | ##ode | ##nal,False
+bge-base,general,Phosmet,3,ph | ##os | ##met,False
+bge-base,general,Photogenic,2,photo | ##genic,False
+bge-base,general,Pneumopyopericardium,9,p | ##ne | ##um | ##op | ##yo | ##per | ##ica | ##rdi | ##um,False
+bge-base,general,Prague,1,prague,False
+bge-base,general,Repeat,1,repeat,False
+bge-base,general,Robin,1,robin,False
+bge-base,general,Rowley,2,row | ##ley,False
+bge-base,general,Rumination,2,rum | ##ination,False
+bge-base,general,Sciaenops,4,sci | ##ae | ##no | ##ps,False
+bge-base,general,Simultaneous,1,simultaneous,False
+bge-base,general,Solandra,2,sol | ##andra,False
+bge-base,general,Tamarao,2,tamara | ##o,False
+bge-base,general,Theatrical,1,theatrical,False
+bge-base,general,Thromboembolus,6,th | ##rom | ##bo | ##em | ##bol | ##us,False
+bge-base,general,Trinitrotoluene,6,tri | ##ni | ##tro | ##to | ##lu | ##ene,False
+bge-base,general,Underexerted,3,under | ##ex | ##erted,False
+bge-base,general,Ventriculopleural,5,vent | ##ric | ##ulo | ##ple | ##ural,False
+Snowflake-M,general,Actinobacillus,5,act | ##ino | ##ba | ##ci | ##llus,False
+Snowflake-M,general,Adenine,2,aden | ##ine,False
+Snowflake-M,general,Anisomelia,4,an | ##iso | ##mel | ##ia,False
+Snowflake-M,general,Anterograde,3,ant | ##ero | ##grade,False
+Snowflake-M,general,Antifungal,4,anti | ##fu | ##nga | ##l,False
+Snowflake-M,general,Armorhead,2,armor | ##head,False
+Snowflake-M,general,Banner,1,banner,False
+Snowflake-M,general,Boiron,3,bo | ##iro | ##n,False
+Snowflake-M,general,Bulrush,3,bu | ##lr | ##ush,False
+Snowflake-M,general,Calyptospora,5,cal | ##yp | ##tos | ##por | ##a,False
+Snowflake-M,general,Circinella,4,ci | ##rc | ##ine | ##lla,False
+Snowflake-M,general,Clupeotoxin,5,cl | ##up | ##eo | ##to | ##xin,False
+Snowflake-M,general,Colourful,1,colourful,False
+Snowflake-M,general,Corpus,1,corpus,False
+Snowflake-M,general,Cryptotomus,3,crypt | ##oto | ##mus,False
+Snowflake-M,general,Cyclamate,4,cy | ##cl | ##ama | ##te,False
+Snowflake-M,general,Epicauta,3,epic | ##au | ##ta,False
+Snowflake-M,general,Ethylnorgestrienone,7,et | ##hyl | ##nor | ##ges | ##tri | ##eno | ##ne,False
+Snowflake-M,general,Fibromuscular,4,fi | ##bro | ##mus | ##cular,False
+Snowflake-M,general,Framboesiform,4,fra | ##mbo | ##es | ##iform,False
+Snowflake-M,general,Glaucomatocyclitic,7,g | ##lau | ##com | ##ato | ##cy | ##cl | ##itic,False
+Snowflake-M,general,Haemoglobin,5,ha | ##em | ##og | ##lo | ##bin,False
+Snowflake-M,general,Healed,1,healed,False
+Snowflake-M,general,Hidradenitis,4,hid | ##rade | ##ni | ##tis,False
+Snowflake-M,general,Hyperactivity,3,hyper | ##act | ##ivity,False
+Snowflake-M,general,Immunofluorescence,5,im | ##mun | ##of | ##lu | ##orescence,False
+Snowflake-M,general,Intermediary,3,inter | ##media | ##ry,False
+Snowflake-M,general,Irrelevant,1,irrelevant,False
+Snowflake-M,general,Ketosteroids,4,ke | ##tos | ##ter | ##oids,False
+Snowflake-M,general,Laughter,1,laughter,False
+Snowflake-M,general,Lissemys,4,li | ##sse | ##my | ##s,False
+Snowflake-M,general,Loxosceles,5,lo | ##x | ##os | ##cel | ##es,False
+Snowflake-M,general,Lycopersicon,5,l | ##y | ##cope | ##rs | ##icon,False
+Snowflake-M,general,Malaise,2,mala | ##ise,False
+Snowflake-M,general,Microrepair,4,micro | ##re | ##pa | ##ir,False
+Snowflake-M,general,Migratory,1,migratory,False
+Snowflake-M,general,Millipede,3,mill | ##ipe | ##de,False
+Snowflake-M,general,Mycitracin,4,my | ##cit | ##rac | ##in,False
+Snowflake-M,general,Myers,1,myers,False
+Snowflake-M,general,Notch,1,notch,False
+Snowflake-M,general,Notched,2,notch | ##ed,False
+Snowflake-M,general,Oligohidrosis,4,ol | ##igo | ##hid | ##rosis,False
+Snowflake-M,general,Paraduodenal,4,para | ##du | ##ode | ##nal,False
+Snowflake-M,general,Phosmet,3,ph | ##os | ##met,False
+Snowflake-M,general,Photogenic,2,photo | ##genic,False
+Snowflake-M,general,Pneumopyopericardium,9,p | ##ne | ##um | ##op | ##yo | ##per | ##ica | ##rdi | ##um,False
+Snowflake-M,general,Prague,1,prague,False
+Snowflake-M,general,Repeat,1,repeat,False
+Snowflake-M,general,Robin,1,robin,False
+Snowflake-M,general,Rowley,2,row | ##ley,False
+Snowflake-M,general,Rumination,2,rum | ##ination,False
+Snowflake-M,general,Sciaenops,4,sci | ##ae | ##no | ##ps,False
+Snowflake-M,general,Simultaneous,1,simultaneous,False
+Snowflake-M,general,Solandra,2,sol | ##andra,False
+Snowflake-M,general,Tamarao,2,tamara | ##o,False
+Snowflake-M,general,Theatrical,1,theatrical,False
+Snowflake-M,general,Thromboembolus,6,th | ##rom | ##bo | ##em | ##bol | ##us,False
+Snowflake-M,general,Trinitrotoluene,6,tri | ##ni | ##tro | ##to | ##lu | ##ene,False
+Snowflake-M,general,Underexerted,3,under | ##ex | ##erted,False
+Snowflake-M,general,Ventriculopleural,5,vent | ##ric | ##ulo | ##ple | ##ural,False
+e5-large,general,Actinobacillus,5,act | ##ino | ##ba | ##ci | ##llus,False
+e5-large,general,Adenine,2,aden | ##ine,False
+e5-large,general,Anisomelia,4,an | ##iso | ##mel | ##ia,False
+e5-large,general,Anterograde,3,ant | ##ero | ##grade,False
+e5-large,general,Antifungal,4,anti | ##fu | ##nga | ##l,False
+e5-large,general,Armorhead,2,armor | ##head,False
+e5-large,general,Banner,1,banner,False
+e5-large,general,Boiron,3,bo | ##iro | ##n,False
+e5-large,general,Bulrush,3,bu | ##lr | ##ush,False
+e5-large,general,Calyptospora,5,cal | ##yp | ##tos | ##por | ##a,False
+e5-large,general,Circinella,4,ci | ##rc | ##ine | ##lla,False
+e5-large,general,Clupeotoxin,5,cl | ##up | ##eo | ##to | ##xin,False
+e5-large,general,Colourful,1,colourful,False
+e5-large,general,Corpus,1,corpus,False
+e5-large,general,Cryptotomus,3,crypt | ##oto | ##mus,False
+e5-large,general,Cyclamate,4,cy | ##cl | ##ama | ##te,False
+e5-large,general,Epicauta,3,epic | ##au | ##ta,False
+e5-large,general,Ethylnorgestrienone,7,et | ##hyl | ##nor | ##ges | ##tri | ##eno | ##ne,False
+e5-large,general,Fibromuscular,4,fi | ##bro | ##mus | ##cular,False
+e5-large,general,Framboesiform,4,fra | ##mbo | ##es | ##iform,False
+e5-large,general,Glaucomatocyclitic,7,g | ##lau | ##com | ##ato | ##cy | ##cl | ##itic,False
+e5-large,general,Haemoglobin,5,ha | ##em | ##og | ##lo | ##bin,False
+e5-large,general,Healed,1,healed,False
+e5-large,general,Hidradenitis,4,hid | ##rade | ##ni | ##tis,False
+e5-large,general,Hyperactivity,3,hyper | ##act | ##ivity,False
+e5-large,general,Immunofluorescence,5,im | ##mun | ##of | ##lu | ##orescence,False
+e5-large,general,Intermediary,3,inter | ##media | ##ry,False
+e5-large,general,Irrelevant,1,irrelevant,False
+e5-large,general,Ketosteroids,4,ke | ##tos | ##ter | ##oids,False
+e5-large,general,Laughter,1,laughter,False
+e5-large,general,Lissemys,4,li | ##sse | ##my | ##s,False
+e5-large,general,Loxosceles,5,lo | ##x | ##os | ##cel | ##es,False
+e5-large,general,Lycopersicon,5,l | ##y | ##cope | ##rs | ##icon,False
+e5-large,general,Malaise,2,mala | ##ise,False
+e5-large,general,Microrepair,4,micro | ##re | ##pa | ##ir,False
+e5-large,general,Migratory,1,migratory,False
+e5-large,general,Millipede,3,mill | ##ipe | ##de,False
+e5-large,general,Mycitracin,4,my | ##cit | ##rac | ##in,False
+e5-large,general,Myers,1,myers,False
+e5-large,general,Notch,1,notch,False
+e5-large,general,Notched,2,notch | ##ed,False
+e5-large,general,Oligohidrosis,4,ol | ##igo | ##hid | ##rosis,False
+e5-large,general,Paraduodenal,4,para | ##du | ##ode | ##nal,False
+e5-large,general,Phosmet,3,ph | ##os | ##met,False
+e5-large,general,Photogenic,2,photo | ##genic,False
+e5-large,general,Pneumopyopericardium,9,p | ##ne | ##um | ##op | ##yo | ##per | ##ica | ##rdi | ##um,False
+e5-large,general,Prague,1,prague,False
+e5-large,general,Repeat,1,repeat,False
+e5-large,general,Robin,1,robin,False
+e5-large,general,Rowley,2,row | ##ley,False
+e5-large,general,Rumination,2,rum | ##ination,False
+e5-large,general,Sciaenops,4,sci | ##ae | ##no | ##ps,False
+e5-large,general,Simultaneous,1,simultaneous,False
+e5-large,general,Solandra,2,sol | ##andra,False
+e5-large,general,Tamarao,2,tamara | ##o,False
+e5-large,general,Theatrical,1,theatrical,False
+e5-large,general,Thromboembolus,6,th | ##rom | ##bo | ##em | ##bol | ##us,False
+e5-large,general,Trinitrotoluene,6,tri | ##ni | ##tro | ##to | ##lu | ##ene,False
+e5-large,general,Underexerted,3,under | ##ex | ##erted,False
+e5-large,general,Ventriculopleural,5,vent | ##ric | ##ulo | ##ple | ##ural,False
+GTE-Large,general,Actinobacillus,5,act | ##ino | ##ba | ##ci | ##llus,False
+GTE-Large,general,Adenine,2,aden | ##ine,False
+GTE-Large,general,Anisomelia,4,an | ##iso | ##mel | ##ia,False
+GTE-Large,general,Anterograde,3,ant | ##ero | ##grade,False
+GTE-Large,general,Antifungal,4,anti | ##fu | ##nga | ##l,False
+GTE-Large,general,Armorhead,2,armor | ##head,False
+GTE-Large,general,Banner,1,banner,False
+GTE-Large,general,Boiron,3,bo | ##iro | ##n,False
+GTE-Large,general,Bulrush,3,bu | ##lr | ##ush,False
+GTE-Large,general,Calyptospora,5,cal | ##yp | ##tos | ##por | ##a,False
+GTE-Large,general,Circinella,4,ci | ##rc | ##ine | ##lla,False
+GTE-Large,general,Clupeotoxin,5,cl | ##up | ##eo | ##to | ##xin,False
+GTE-Large,general,Colourful,1,colourful,False
+GTE-Large,general,Corpus,1,corpus,False
+GTE-Large,general,Cryptotomus,3,crypt | ##oto | ##mus,False
+GTE-Large,general,Cyclamate,4,cy | ##cl | ##ama | ##te,False
+GTE-Large,general,Epicauta,3,epic | ##au | ##ta,False
+GTE-Large,general,Ethylnorgestrienone,7,et | ##hyl | ##nor | ##ges | ##tri | ##eno | ##ne,False
+GTE-Large,general,Fibromuscular,4,fi | ##bro | ##mus | ##cular,False
+GTE-Large,general,Framboesiform,4,fra | ##mbo | ##es | ##iform,False
+GTE-Large,general,Glaucomatocyclitic,7,g | ##lau | ##com | ##ato | ##cy | ##cl | ##itic,False
+GTE-Large,general,Haemoglobin,5,ha | ##em | ##og | ##lo | ##bin,False
+GTE-Large,general,Healed,1,healed,False
+GTE-Large,general,Hidradenitis,4,hid | ##rade | ##ni | ##tis,False
+GTE-Large,general,Hyperactivity,3,hyper | ##act | ##ivity,False
+GTE-Large,general,Immunofluorescence,5,im | ##mun | ##of | ##lu | ##orescence,False
+GTE-Large,general,Intermediary,3,inter | ##media | ##ry,False
+GTE-Large,general,Irrelevant,1,irrelevant,False
+GTE-Large,general,Ketosteroids,4,ke | ##tos | ##ter | ##oids,False
+GTE-Large,general,Laughter,1,laughter,False
+GTE-Large,general,Lissemys,4,li | ##sse | ##my | ##s,False
+GTE-Large,general,Loxosceles,5,lo | ##x | ##os | ##cel | ##es,False
+GTE-Large,general,Lycopersicon,5,l | ##y | ##cope | ##rs | ##icon,False
+GTE-Large,general,Malaise,2,mala | ##ise,False
+GTE-Large,general,Microrepair,4,micro | ##re | ##pa | ##ir,False
+GTE-Large,general,Migratory,1,migratory,False
+GTE-Large,general,Millipede,3,mill | ##ipe | ##de,False
+GTE-Large,general,Mycitracin,4,my | ##cit | ##rac | ##in,False
+GTE-Large,general,Myers,1,myers,False
+GTE-Large,general,Notch,1,notch,False
+GTE-Large,general,Notched,2,notch | ##ed,False
+GTE-Large,general,Oligohidrosis,4,ol | ##igo | ##hid | ##rosis,False
+GTE-Large,general,Paraduodenal,4,para | ##du | ##ode | ##nal,False
+GTE-Large,general,Phosmet,3,ph | ##os | ##met,False
+GTE-Large,general,Photogenic,2,photo | ##genic,False
+GTE-Large,general,Pneumopyopericardium,9,p | ##ne | ##um | ##op | ##yo | ##per | ##ica | ##rdi | ##um,False
+GTE-Large,general,Prague,1,prague,False
+GTE-Large,general,Repeat,1,repeat,False
+GTE-Large,general,Robin,1,robin,False
+GTE-Large,general,Rowley,2,row | ##ley,False
+GTE-Large,general,Rumination,2,rum | ##ination,False
+GTE-Large,general,Sciaenops,4,sci | ##ae | ##no | ##ps,False
+GTE-Large,general,Simultaneous,1,simultaneous,False
+GTE-Large,general,Solandra,2,sol | ##andra,False
+GTE-Large,general,Tamarao,2,tamara | ##o,False
+GTE-Large,general,Theatrical,1,theatrical,False
+GTE-Large,general,Thromboembolus,6,th | ##rom | ##bo | ##em | ##bol | ##us,False
+GTE-Large,general,Trinitrotoluene,6,tri | ##ni | ##tro | ##to | ##lu | ##ene,False
+GTE-Large,general,Underexerted,3,under | ##ex | ##erted,False
+GTE-Large,general,Ventriculopleural,5,vent | ##ric | ##ulo | ##ple | ##ural,False
+PubMedBERT,medical,Actinobacillus,3,actin | ##obac | ##illus,False
+PubMedBERT,medical,Adenine,1,adenine,False
+PubMedBERT,medical,Anisomelia,4,anis | ##ome | ##li | ##a,False
+PubMedBERT,medical,Anterograde,1,anterograde,False
+PubMedBERT,medical,Antifungal,1,antifungal,False
+PubMedBERT,medical,Armorhead,4,arm | ##orh | ##ea | ##d,False
+PubMedBERT,medical,Banner,2,ban | ##ner,False
+PubMedBERT,medical,Boiron,3,bo | ##iro | ##n,False
+PubMedBERT,medical,Bulrush,3,bul | ##ru | ##sh,False
+PubMedBERT,medical,Calyptospora,4,cal | ##ypt | ##ospor | ##a,False
+PubMedBERT,medical,Circinella,4,circ | ##ine | ##ll | ##a,False
+PubMedBERT,medical,Clupeotoxin,4,cl | ##up | ##e | ##otoxin,False
+PubMedBERT,medical,Colourful,2,colour | ##ful,False
+PubMedBERT,medical,Corpus,1,corpus,False
+PubMedBERT,medical,Cryptotomus,3,crypt | ##otom | ##us,False
+PubMedBERT,medical,Cyclamate,2,cycl | ##amate,False
+PubMedBERT,medical,Epicauta,3,epic | ##aut | ##a,False
+PubMedBERT,medical,Ethylnorgestrienone,6,ethyl | ##no | ##r | ##gest | ##ri | ##enone,False
+PubMedBERT,medical,Fibromuscular,2,fibrom | ##uscular,False
+PubMedBERT,medical,Framboesiform,4,fram | ##bo | ##esi | ##form,False
+PubMedBERT,medical,Glaucomatocyclitic,4,glaucoma | ##to | ##cycl | ##itic,False
+PubMedBERT,medical,Haemoglobin,1,haemoglobin,False
+PubMedBERT,medical,Healed,1,healed,False
+PubMedBERT,medical,Hidradenitis,4,hid | ##rad | ##eni | ##tis,False
+PubMedBERT,medical,Hyperactivity,1,hyperactivity,False
+PubMedBERT,medical,Immunofluorescence,1,immunofluorescence,False
+PubMedBERT,medical,Intermediary,2,intermedi | ##ary,False
+PubMedBERT,medical,Irrelevant,1,irrelevant,False
+PubMedBERT,medical,Ketosteroids,4,keto | ##st | ##ero | ##ids,False
+PubMedBERT,medical,Laughter,2,la | ##ughter,False
+PubMedBERT,medical,Lissemys,3,lis | ##sem | ##ys,False
+PubMedBERT,medical,Loxosceles,3,lox | ##osc | ##eles,False
+PubMedBERT,medical,Lycopersicon,3,lycop | ##ers | ##icon,False
+PubMedBERT,medical,Malaise,3,mal | ##ai | ##se,False
+PubMedBERT,medical,Microrepair,3,micror | ##ep | ##air,False
+PubMedBERT,medical,Migratory,1,migratory,False
+PubMedBERT,medical,Millipede,3,millip | ##ed | ##e,False
+PubMedBERT,medical,Mycitracin,3,myc | ##itr | ##acin,False
+PubMedBERT,medical,Myers,1,myers,False
+PubMedBERT,medical,Notch,1,notch,False
+PubMedBERT,medical,Notched,2,notch | ##ed,False
+PubMedBERT,medical,Oligohidrosis,4,oligo | ##hi | ##dr | ##osis,False
+PubMedBERT,medical,Paraduodenal,4,parad | ##uo | ##den | ##al,False
+PubMedBERT,medical,Phosmet,3,pho | ##sm | ##et,False
+PubMedBERT,medical,Photogenic,2,photo | ##genic,False
+PubMedBERT,medical,Pneumopyopericardium,6,pneum | ##opy | ##oper | ##ica | ##rd | ##ium,False
+PubMedBERT,medical,Prague,3,pra | ##gu | ##e,False
+PubMedBERT,medical,Repeat,1,repeat,False
+PubMedBERT,medical,Robin,2,rob | ##in,False
+PubMedBERT,medical,Rowley,2,row | ##ley,False
+PubMedBERT,medical,Rumination,1,rumination,False
+PubMedBERT,medical,Sciaenops,4,sci | ##ae | ##no | ##ps,False
+PubMedBERT,medical,Simultaneous,1,simultaneous,False
+PubMedBERT,medical,Solandra,3,sol | ##and | ##ra,False
+PubMedBERT,medical,Tamarao,3,tam | ##ara | ##o,False
+PubMedBERT,medical,Theatrical,3,the | ##atric | ##al,False
+PubMedBERT,medical,Thromboembolus,2,thromboemb | ##olus,False
+PubMedBERT,medical,Trinitrotoluene,5,trin | ##itro | ##to | ##lu | ##ene,False
+PubMedBERT,medical,Underexerted,4,under | ##ex | ##ert | ##ed,False
+PubMedBERT,medical,Ventriculopleural,4,ventr | ##icul | ##ople | ##ural,False
+S-PubMedBERT,medical,Actinobacillus,3,actin | ##obac | ##illus,False
+S-PubMedBERT,medical,Adenine,1,adenine,False
+S-PubMedBERT,medical,Anisomelia,4,anis | ##ome | ##li | ##a,False
+S-PubMedBERT,medical,Anterograde,1,anterograde,False
+S-PubMedBERT,medical,Antifungal,1,antifungal,False
+S-PubMedBERT,medical,Armorhead,4,arm | ##orh | ##ea | ##d,False
+S-PubMedBERT,medical,Banner,2,ban | ##ner,False
+S-PubMedBERT,medical,Boiron,3,bo | ##iro | ##n,False
+S-PubMedBERT,medical,Bulrush,3,bul | ##ru | ##sh,False
+S-PubMedBERT,medical,Calyptospora,4,cal | ##ypt | ##ospor | ##a,False
+S-PubMedBERT,medical,Circinella,4,circ | ##ine | ##ll | ##a,False
+S-PubMedBERT,medical,Clupeotoxin,4,cl | ##up | ##e | ##otoxin,False
+S-PubMedBERT,medical,Colourful,2,colour | ##ful,False
+S-PubMedBERT,medical,Corpus,1,corpus,False
+S-PubMedBERT,medical,Cryptotomus,3,crypt | ##otom | ##us,False
+S-PubMedBERT,medical,Cyclamate,2,cycl | ##amate,False
+S-PubMedBERT,medical,Epicauta,3,epic | ##aut | ##a,False
+S-PubMedBERT,medical,Ethylnorgestrienone,6,ethyl | ##no | ##r | ##gest | ##ri | ##enone,False
+S-PubMedBERT,medical,Fibromuscular,2,fibrom | ##uscular,False
+S-PubMedBERT,medical,Framboesiform,4,fram | ##bo | ##esi | ##form,False
+S-PubMedBERT,medical,Glaucomatocyclitic,4,glaucoma | ##to | ##cycl | ##itic,False
+S-PubMedBERT,medical,Haemoglobin,1,haemoglobin,False
+S-PubMedBERT,medical,Healed,1,healed,False
+S-PubMedBERT,medical,Hidradenitis,4,hid | ##rad | ##eni | ##tis,False
+S-PubMedBERT,medical,Hyperactivity,1,hyperactivity,False
+S-PubMedBERT,medical,Immunofluorescence,1,immunofluorescence,False
+S-PubMedBERT,medical,Intermediary,2,intermedi | ##ary,False
+S-PubMedBERT,medical,Irrelevant,1,irrelevant,False
+S-PubMedBERT,medical,Ketosteroids,4,keto | ##st | ##ero | ##ids,False
+S-PubMedBERT,medical,Laughter,2,la | ##ughter,False
+S-PubMedBERT,medical,Lissemys,3,lis | ##sem | ##ys,False
+S-PubMedBERT,medical,Loxosceles,3,lox | ##osc | ##eles,False
+S-PubMedBERT,medical,Lycopersicon,3,lycop | ##ers | ##icon,False
+S-PubMedBERT,medical,Malaise,3,mal | ##ai | ##se,False
+S-PubMedBERT,medical,Microrepair,3,micror | ##ep | ##air,False
+S-PubMedBERT,medical,Migratory,1,migratory,False
+S-PubMedBERT,medical,Millipede,3,millip | ##ed | ##e,False
+S-PubMedBERT,medical,Mycitracin,3,myc | ##itr | ##acin,False
+S-PubMedBERT,medical,Myers,1,myers,False
+S-PubMedBERT,medical,Notch,1,notch,False
+S-PubMedBERT,medical,Notched,2,notch | ##ed,False
+S-PubMedBERT,medical,Oligohidrosis,4,oligo | ##hi | ##dr | ##osis,False
+S-PubMedBERT,medical,Paraduodenal,4,parad | ##uo | ##den | ##al,False
+S-PubMedBERT,medical,Phosmet,3,pho | ##sm | ##et,False
+S-PubMedBERT,medical,Photogenic,2,photo | ##genic,False
+S-PubMedBERT,medical,Pneumopyopericardium,6,pneum | ##opy | ##oper | ##ica | ##rd | ##ium,False
+S-PubMedBERT,medical,Prague,3,pra | ##gu | ##e,False
+S-PubMedBERT,medical,Repeat,1,repeat,False
+S-PubMedBERT,medical,Robin,2,rob | ##in,False
+S-PubMedBERT,medical,Rowley,2,row | ##ley,False
+S-PubMedBERT,medical,Rumination,1,rumination,False
+S-PubMedBERT,medical,Sciaenops,4,sci | ##ae | ##no | ##ps,False
+S-PubMedBERT,medical,Simultaneous,1,simultaneous,False
+S-PubMedBERT,medical,Solandra,3,sol | ##and | ##ra,False
+S-PubMedBERT,medical,Tamarao,3,tam | ##ara | ##o,False
+S-PubMedBERT,medical,Theatrical,3,the | ##atric | ##al,False
+S-PubMedBERT,medical,Thromboembolus,2,thromboemb | ##olus,False
+S-PubMedBERT,medical,Trinitrotoluene,5,trin | ##itro | ##to | ##lu | ##ene,False
+S-PubMedBERT,medical,Underexerted,4,under | ##ex | ##ert | ##ed,False
+S-PubMedBERT,medical,Ventriculopleural,4,ventr | ##icul | ##ople | ##ural,False
+MedEmbed-L,medical,Actinobacillus,5,act | ##ino | ##ba | ##ci | ##llus,False
+MedEmbed-L,medical,Adenine,2,aden | ##ine,False
+MedEmbed-L,medical,Anisomelia,4,an | ##iso | ##mel | ##ia,False
+MedEmbed-L,medical,Anterograde,3,ant | ##ero | ##grade,False
+MedEmbed-L,medical,Antifungal,4,anti | ##fu | ##nga | ##l,False
+MedEmbed-L,medical,Armorhead,2,armor | ##head,False
+MedEmbed-L,medical,Banner,1,banner,False
+MedEmbed-L,medical,Boiron,3,bo | ##iro | ##n,False
+MedEmbed-L,medical,Bulrush,3,bu | ##lr | ##ush,False
+MedEmbed-L,medical,Calyptospora,5,cal | ##yp | ##tos | ##por | ##a,False
+MedEmbed-L,medical,Circinella,4,ci | ##rc | ##ine | ##lla,False
+MedEmbed-L,medical,Clupeotoxin,5,cl | ##up | ##eo | ##to | ##xin,False
+MedEmbed-L,medical,Colourful,1,colourful,False
+MedEmbed-L,medical,Corpus,1,corpus,False
+MedEmbed-L,medical,Cryptotomus,3,crypt | ##oto | ##mus,False
+MedEmbed-L,medical,Cyclamate,4,cy | ##cl | ##ama | ##te,False
+MedEmbed-L,medical,Epicauta,3,epic | ##au | ##ta,False
+MedEmbed-L,medical,Ethylnorgestrienone,7,et | ##hyl | ##nor | ##ges | ##tri | ##eno | ##ne,False
+MedEmbed-L,medical,Fibromuscular,4,fi | ##bro | ##mus | ##cular,False
+MedEmbed-L,medical,Framboesiform,4,fra | ##mbo | ##es | ##iform,False
+MedEmbed-L,medical,Glaucomatocyclitic,7,g | ##lau | ##com | ##ato | ##cy | ##cl | ##itic,False
+MedEmbed-L,medical,Haemoglobin,5,ha | ##em | ##og | ##lo | ##bin,False
+MedEmbed-L,medical,Healed,1,healed,False
+MedEmbed-L,medical,Hidradenitis,4,hid | ##rade | ##ni | ##tis,False
+MedEmbed-L,medical,Hyperactivity,3,hyper | ##act | ##ivity,False
+MedEmbed-L,medical,Immunofluorescence,5,im | ##mun | ##of | ##lu | ##orescence,False
+MedEmbed-L,medical,Intermediary,3,inter | ##media | ##ry,False
+MedEmbed-L,medical,Irrelevant,1,irrelevant,False
+MedEmbed-L,medical,Ketosteroids,4,ke | ##tos | ##ter | ##oids,False
+MedEmbed-L,medical,Laughter,1,laughter,False
+MedEmbed-L,medical,Lissemys,4,li | ##sse | ##my | ##s,False
+MedEmbed-L,medical,Loxosceles,5,lo | ##x | ##os | ##cel | ##es,False
+MedEmbed-L,medical,Lycopersicon,5,l | ##y | ##cope | ##rs | ##icon,False
+MedEmbed-L,medical,Malaise,2,mala | ##ise,False
+MedEmbed-L,medical,Microrepair,4,micro | ##re | ##pa | ##ir,False
+MedEmbed-L,medical,Migratory,1,migratory,False
+MedEmbed-L,medical,Millipede,3,mill | ##ipe | ##de,False
+MedEmbed-L,medical,Mycitracin,4,my | ##cit | ##rac | ##in,False
+MedEmbed-L,medical,Myers,1,myers,False
+MedEmbed-L,medical,Notch,1,notch,False
+MedEmbed-L,medical,Notched,2,notch | ##ed,False
+MedEmbed-L,medical,Oligohidrosis,4,ol | ##igo | ##hid | ##rosis,False
+MedEmbed-L,medical,Paraduodenal,4,para | ##du | ##ode | ##nal,False
+MedEmbed-L,medical,Phosmet,3,ph | ##os | ##met,False
+MedEmbed-L,medical,Photogenic,2,photo | ##genic,False
+MedEmbed-L,medical,Pneumopyopericardium,9,p | ##ne | ##um | ##op | ##yo | ##per | ##ica | ##rdi | ##um,False
+MedEmbed-L,medical,Prague,1,prague,False
+MedEmbed-L,medical,Repeat,1,repeat,False
+MedEmbed-L,medical,Robin,1,robin,False
+MedEmbed-L,medical,Rowley,2,row | ##ley,False
+MedEmbed-L,medical,Rumination,2,rum | ##ination,False
+MedEmbed-L,medical,Sciaenops,4,sci | ##ae | ##no | ##ps,False
+MedEmbed-L,medical,Simultaneous,1,simultaneous,False
+MedEmbed-L,medical,Solandra,2,sol | ##andra,False
+MedEmbed-L,medical,Tamarao,2,tamara | ##o,False
+MedEmbed-L,medical,Theatrical,1,theatrical,False
+MedEmbed-L,medical,Thromboembolus,6,th | ##rom | ##bo | ##em | ##bol | ##us,False
+MedEmbed-L,medical,Trinitrotoluene,6,tri | ##ni | ##tro | ##to | ##lu | ##ene,False
+MedEmbed-L,medical,Underexerted,3,under | ##ex | ##erted,False
+MedEmbed-L,medical,Ventriculopleural,5,vent | ##ric | ##ulo | ##ple | ##ural,False

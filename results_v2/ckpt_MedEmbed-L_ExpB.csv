@@ -1,0 +1,2 @@
+Model,Type,Experiment,Dim,Embed Time (s),Total Time (s),Model RAM (MB),VRAM (MB),Avg Prec@5,Avg Recall@5,Avg Sim@5,Avg MRR@5,Avg nDCG@5,Overall Quality
+MedEmbed-L,medical,B,1024,30.8,31.1,21.0,680.0,0.896,0.395,0.7342,0.467,0.968,0.7767
