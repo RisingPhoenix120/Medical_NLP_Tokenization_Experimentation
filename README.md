@@ -11,7 +11,6 @@ Version 2.0
 
 March 2026
 
-# **Table of Contents**
 
 # **1\. Executive Summary**
 
