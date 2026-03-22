@@ -1,0 +1,9 @@
+Model,Type,ChunkStyle,SizeTier,Dim,Embed Time (s),Total Time (s),RAM (MB),VRAM (MB),Avg Prec@5,Avg Recall@5,Avg Sim@5,Avg MRR@5,Avg nDCG@5,Overall Quality
+e5-large,general,sentence,large,1024,1186.2,1187.3,11798.0,0.0,0.984,0.984,0.862,0.458,0.994,0.8245
+GTE-Large,general,sentence,large,1024,1059.1,1060.1,11233.0,0.0,0.944,0.944,0.8741,0.475,0.997,0.8223
+bge-small,general,sentence,small,384,131.3,131.5,10352.0,0.0,0.952,0.952,0.7656,0.47,0.996,0.7957
+bge-base,general,sentence,base,768,357.9,358.3,10754.0,0.0,0.968,0.968,0.7378,0.466,0.996,0.7919
+MedEmbed-L,medical,sentence,large,1024,1210.8,1211.9,11908.0,0.0,0.944,0.944,0.7341,0.461,0.983,0.7805
+PubMedBERT,medical,sentence,base,768,334.5,334.9,11006.0,0.0,0.968,0.968,0.6541,0.464,0.996,0.7704
+MiniLM-L6,general,sentence,small,384,43.1,43.3,4856.0,0.0,0.976,0.976,0.6071,0.464,0.999,0.7616
+Snowflake-M,general,sentence,base,768,371.3,371.7,10754.0,0.0,0.552,0.552,0.7906,0.481,0.812,0.6589

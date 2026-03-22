@@ -1,0 +1,3 @@
+Type,Avg Prec@5,Avg Recall@5,Avg MRR@5,Avg nDCG@5,Overall Quality
+general,0.896,0.896,0.469,0.9657,0.7758
+medical,0.956,0.956,0.4625,0.9895,0.7754

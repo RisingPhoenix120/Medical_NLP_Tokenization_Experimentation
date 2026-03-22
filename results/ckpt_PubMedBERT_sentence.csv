@@ -1,0 +1,2 @@
+Model,Type,ChunkStyle,SizeTier,Dim,Embed Time (s),Total Time (s),RAM (MB),VRAM (MB),Avg Prec@5,Avg Recall@5,Avg Sim@5,Avg MRR@5,Avg nDCG@5,Overall Quality
+PubMedBERT,medical,sentence,base,768,334.5,334.9,11006.0,0.0,0.968,0.968,0.6541,0.464,0.996,0.7704

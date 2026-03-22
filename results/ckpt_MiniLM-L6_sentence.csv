@@ -1,0 +1,2 @@
+Model,Type,ChunkStyle,SizeTier,Dim,Embed Time (s),Total Time (s),RAM (MB),VRAM (MB),Avg Prec@5,Avg Recall@5,Avg Sim@5,Avg MRR@5,Avg nDCG@5,Overall Quality
+MiniLM-L6,general,sentence,small,384,43.1,43.3,4856.0,0.0,0.976,0.976,0.6071,0.464,0.999,0.7616
